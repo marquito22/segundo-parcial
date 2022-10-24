@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1666616211 source:c:\users\aula11\desktop\marco_carreira_45873082_tema1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pasajero.h"
+	"vehiculo.h"
+
+1666615926 c:\users\aula11\desktop\marco_carreira_45873082_tema1\pasajero.h
+
+1666616785 source:c:\users\aula11\desktop\marco_carreira_45873082_tema1\pasajero.c
+	<stdio.h>
+	<stdlib.h>
+	"pasajero.h"
+	<string.h>
+
+1666616785 source:c:\users\aula11\desktop\marco_carreira_45873082_tema1\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"pasajero.h"
+	"vehiculo.h"
+	<string.h>
+
+1666616446 c:\users\aula11\desktop\marco_carreira_45873082_tema1\vehiculo.h
+
